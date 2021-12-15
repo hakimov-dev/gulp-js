@@ -1,0 +1,23 @@
+
+@media (max-width:1200px) {
+  header{
+    background-color: blue;
+  }
+}
+
+body{
+background-color: aqua;
+color: #000;
+  display: flex;
+  justify-content: space-around;
+  padding: 0px 100px;
+  align-items:center;
+}
+
+header{
+  background-color: red ;
+  display: flex;
+  justify-content: space-around; 
+}
+
+
