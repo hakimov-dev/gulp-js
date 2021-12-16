@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles for development and opens the browser.
 ```
 gulp
 ```
