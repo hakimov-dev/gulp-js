@@ -1,3 +1,17 @@
-// $('body').css('background', 'red')
+const App = {
+    data() {
+        return {
+        
+        }
+    },
+       
+    methods:{
 
-// document.querySelector('body').style.background = "red"
+    }
+}
+
+
+const app = Vue.createApp(App)
+app.mount('#app')
+
+
